@@ -1,0 +1,9 @@
+A production-ready Todo Android application named "AI_TODO_Compose" built with Jetpack Compose and Clean Architecture.
+Features:
+- Task Management (Add, Edit, Delete) with Title, Description, Category, Priority, and Reminder Time.
+- Clean Architecture (Domain, Data, Presentation layers) + MVVM.
+- Dagger Hilt for Dependency Injection.
+- Room Database for local storage.
+- Local notifications for reminders using AlarmManager/WorkManager.
+- UI: List/Grid view toggle, Material Design 3, Edge-to-Edge, adaptive icon.
+- Permission handling for Android 12+ and 13+.
