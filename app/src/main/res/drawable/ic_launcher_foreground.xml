@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,54l14,14l30,-30l-4,-4l-26,26l-10,-10z" />
+
+    <!-- AI Sparkles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,25l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M85,45l1.5,3.5l3.5,1.5l-3.5,1.5l-1.5,3.5l-1.5,-3.5l-3.5,-1.5l3.5,-1.5z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,15l1,2.5l2.5,1l-2.5,1l-1,2.5l-1,-2.5l-2.5,-1l2.5,-1z" />
+</vector>
