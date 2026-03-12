@@ -1,4 +1,4 @@
-A production-ready Todo Android application named "AI_TODO_Compose" built with Jetpack Compose and Clean Architecture.
+A production-ready Todo Android application named "TODO_Compose" built with Jetpack Compose and Clean Architecture.
 Features:
 - Task Management (Add, Edit, Delete) with Title, Description, Category, Priority, and Reminder Time.
 - Clean Architecture (Domain, Data, Presentation layers) + MVVM.
